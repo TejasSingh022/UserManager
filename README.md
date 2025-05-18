@@ -21,7 +21,7 @@ Ensure you have the following installed:
 
 ```bash
 git clone https://github.com/TejasSingh022/UserManager.git
-cd your-app-directory
+cd UserManager
 ```
 
 ### Configure the Application
@@ -52,7 +52,7 @@ cd your-app-directory
 
 ### Run the Application
 
-- You can run the Spring Boot application by executing the main class (e.g., `App.java`) directly from your IDE.
+- You can run the Spring Boot application by executing App.java directly from your IDE.
 - Alternatively, you can run the application using Maven with:
   ```bash
   mvn spring-boot:run
