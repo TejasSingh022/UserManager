@@ -1,0 +1,28 @@
+# Ignore target directory (Maven build output)
+target/
+
+# Ignore Maven wrapper files
+.mvn/
+.settings/
+.classpath
+.project
+
+# Ignore application.properties (only push application-example.properties)
+src/main/resources/application.properties
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE-specific files
+.idea/
+.vscode/
+*.iml
+
+# Ignore logs
+*.log
+
+# Ignore compiled bytecode
+*.class
+*.war
+*.jar
